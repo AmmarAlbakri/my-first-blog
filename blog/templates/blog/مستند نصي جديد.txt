@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Django Girls blog</title>
+    </head>
+    <body>
+        <div>
+            <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+        <div>
+            <p>published: 14.06.2014, 12:14</p>
+            <h2><a href="">?lk Blogum</a></h2>
+            <p>Cok heyecanl?y?m! Bu benim ilk blogum. Ne kadar zevkli bir i?mi? bilgisayarlarla u?ra?mak. Art?k bilgisayar ba??ndan kalkmam. </p>
+        </div>
+
+        <div>
+            <p>published: 14.06.2014, 12:20</p>
+            <h2><a href="">?kinci g?nderim</a></h2>
+            <p>Bir varm?? bir yokmu?, evvel zaman içinde Ne kadar zevkli bir i?mi? bilgisayarlarla u?ra?mak. Art?k bilgisayar ba??ndan kalkmam. kalbur saman içinde, develer tellal iken, pireler berber iken; ben annemin be?i?ini t?ng?r m?ng?r sallar iken.</p>
+        </div>
+    </body>
+</html>
